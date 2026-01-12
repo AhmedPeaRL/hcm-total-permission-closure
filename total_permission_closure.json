@@ -1,0 +1,38 @@
+{
+  "closure": "total_permission_without_obligation",
+
+  "permissions": {
+    "action": {
+      "allowed": true,
+      "expected": false
+    },
+    "measurement": {
+      "allowed": true,
+      "interpreted": false
+    },
+    "spread": {
+      "allowed": true,
+      "directed": false
+    },
+    "invocation": {
+      "allowed": true,
+      "summoned": false
+    },
+    "silence": {
+      "allowed": true,
+      "explained": false
+    },
+    "external_agency": {
+      "allowed": true,
+      "internal_effect": false
+    }
+  },
+
+  "system_posture": {
+    "no_internal_motivation": true,
+    "no adaptive core": true,
+    "no required outcome": true
+  },
+
+  "definition": "Everything may occur. Nothing is required to matter."
+}
